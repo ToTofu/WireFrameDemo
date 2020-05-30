@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 531421576967d0d4da053dfdedd0f394, type: 3}
+  m_Name: Cube
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  degraded_rectangles:
+  - vertex1: 0
+    vertex2: 2
+    triangle1_vertex3: 3
+    triangle2_vertex3: 20
+  - vertex1: 2
+    vertex2: 3
+    triangle1_vertex3: 0
+    triangle2_vertex3: 5
+  - vertex1: 3
+    vertex2: 0
+    triangle1_vertex3: 2
+    triangle2_vertex3: 1
+  - vertex1: 3
+    vertex2: 1
+    triangle1_vertex3: 0
+    triangle2_vertex3: 18
+  - vertex1: 1
+    vertex2: 0
+    triangle1_vertex3: 3
+    triangle2_vertex3: 12
+  - vertex1: 8
+    vertex2: 4
+    triangle1_vertex3: 5
+    triangle2_vertex3: 20
+  - vertex1: 4
+    vertex2: 5
+    triangle1_vertex3: 8
+    triangle2_vertex3: 7
+  - vertex1: 5
+    vertex2: 8
+    triangle1_vertex3: 4
+    triangle2_vertex3: 9
+  - vertex1: 5
+    vertex2: 9
+    triangle1_vertex3: 8
+    triangle2_vertex3: 16
+  - vertex1: 10
+    vertex2: 6
+    triangle1_vertex3: 7
+    triangle2_vertex3: 22
+  - vertex1: 6
+    vertex2: 7
+    triangle1_vertex3: 10
+    triangle2_vertex3: 14
+  - vertex1: 7
+    vertex2: 10
+    triangle1_vertex3: 6
+    triangle2_vertex3: 11
+  - vertex1: 7
+    vertex2: 11
+    triangle1_vertex3: 10
+    triangle2_vertex3: 16
+  - vertex1: 12
+    vertex2: 13
+    triangle1_vertex3: 14
+    triangle2_vertex3: 22
+  - vertex1: 14
+    vertex2: 12
+    triangle1_vertex3: 13
+    triangle2_vertex3: 15
+  - vertex1: 14
+    vertex2: 15
+    triangle1_vertex3: 12
+    triangle2_vertex3: 18
+  - vertex1: 18
+    vertex2: 16
+    triangle1_vertex3: 17
+    triangle2_vertex3: 19
+  - vertex1: 22
+    vertex2: 20
+    triangle1_vertex3: 21
+    triangle2_vertex3: 23
